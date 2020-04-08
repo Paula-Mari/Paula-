@@ -1,0 +1,27 @@
+html{
+    background-color: aquamarine;
+    margin-left: 250px;
+    margin-right: 250px;
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+header, h2{
+    font-size: 35px;
+    color: coral;
+}
+
+header{
+    text-align: center;  
+}
+p,li{
+    font-size: 25px;
+    text-align: justify;
+}
+tittle{ 
+    font-family: 'Anton', sans-serif;
+}
+h2{
+    font-family: 'Teko', sans-serif;
+}
+header{
+    background-color: black;
+}
