@@ -21,7 +21,9 @@ tittle{
 }
 h2{
     font-family: 'Teko', sans-serif;
+    background-color: grey;
+    text-align: center;
 }
 header{
-    background-color: black;
+    background-color: grey;
 }
